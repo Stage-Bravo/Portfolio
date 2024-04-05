@@ -1,10 +1,10 @@
 # Portfolio
 
 ## Inhoudsopgave
-[Inleiding](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#intro)<br>
-[De opdracht](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#projects)<br>
+[Inleiding](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#inleiding)<br>
+[De opdracht](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#de-opdracht)<br>
 [Documenten](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#documenten)<br>
-[Leeruitkomsten](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#learning-outcomes)
+[Leeruitkomsten](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#leeruitkomsten)
 
 ## Inleiding 
 Welkom bij mijn portfolio van semester 5. In mijn portfolio vind je gedeeltes van mijn werk van wat ik op mijn stage heb gemaakt. Ook vertel ik je wat de leerresultaten van dit semester zijn en hoe ik deze heb bereikt.
