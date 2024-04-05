@@ -3,7 +3,7 @@
 ## Inhoudsopgave
 [Inleiding](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#intro)<br>
 [De opdracht](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#projects)<br>
-[Documenten](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#documents)<br>
+[Documenten](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#documenten)<br>
 [Leeruitkomsten](https://github.com/basjebasie/Portfolio-s3/edit/main/README.md#learning-outcomes)
 
 ## Inleiding 
