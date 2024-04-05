@@ -15,6 +15,8 @@ In dit semster hbe ik stage gelopen bij Bravo in Baarlo. Hier heb ik in een inte
 Het doel van de opdracht is om een gestructureerde API-laag te ontwikkelen voor de webapplicatie Mijn Jachtveld. Hierdoor zou er data kunnen worden gegeven aan andere bedrijven waardoor Mijn Jachtveld ook data kan gebruiken van andere bedrijven. Dit moet natuurlijk op een veilige manier gebeuren daarom moet er aandacht worden gegeven aan de veiligheid van de API’s. De API-laag moet worden toegevoegd in een al bestaande webapplicatie dus er moet goed gekeken worden hoe dit gedaan wordt. 
 
 ## Documenten 
+[Onderzoeken](https://github.com/Stage-Bravo/Portfolio/tree/main/Onderzoek)<br>
+[Retrospective](https://github.com/Stage-Bravo/Portfolio/blob/main/Retrospective.md)
 
 ## Leeruitkomsten
 Hier zijn de leerresultaten die ik heb behaald, samen met het bewijs van mijn werk.
