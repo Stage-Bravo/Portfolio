@@ -26,3 +26,12 @@ Werk uitgevoerd |  |
 Planning |  | 
 
 Ik heb de afgelopen sprint een goeie strint gehad waar ik men taken heb uitgevoerd die gepland had staan, zelfs heb ik een gedeelte vooruit kunnen werken. Aan mijn porffolio had ik uiteingelijk meer aandacht aan moeten besteden omdat het uitijndelijk nog niet op het niveau is dan dat er gevraagd wordt. De documentatie is verder weer goed gegaan en heb daar geen problemen mee gehad. De planning is na de vorige keer een stuk beter gegaan en heb daar weinig problemen mee gekregen. Nu ga ik verder met het programeren van de API.
+
+## Sprint 4
+Hieronder staat mijn vierde retrospective van mijn stage. 
+Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter 
+--- | --- | ---
+Cominucatie |  |  Midterm revieuw
+Werk uitgevoerd |  | 
+
+De afgelopen sprint is de cominucatie richting de de collega's op kantoor goed gegaan over het werk. Ik heb al de doelen voor deze sprint uitgevoerd die ik op heb gesteld. Hierdoor loop ik goed op schema die ik voor me zelf heb opgesteld. Dit heeft niet echt met mijn stage te maken maar ik had mijn midterm revieuw beter moeten voorbereiden. Hierdoor kon ik mijn progessie niet goed kunne laten zien en met wat voor project ik bezig ben.
