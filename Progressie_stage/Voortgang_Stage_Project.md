@@ -15,10 +15,10 @@ Ik wil doormiddel van MVC te gebruiken laten zien hoe je een MVC-applicatie opst
 Vanwege hoe Mijn Jachtveld is gemaakt heb ik besloten om te programmeren in het Nederlands. Dit doe ik omdat ik niet te veel wil afwijken van hoe ze hier doen programmeren. 
 
 ## API’s 
-In het project heb ik een aantal API’s ontwikkeld. Een van die API’s wordt een JWT-token gemaakt, hierdoor kan ik later controleren of degene rechten heeft om gebruik te maken van de API’s. Voor meer informatie of JWT-tokens klik HIER. Hieronder laat ik de API zien die de JWT-token aanmaakt:
+In het project heb ik een aantal API’s ontwikkeld. Een van die API’s wordt een JWT-token gemaakt, hierdoor kan ik later controleren of degene rechten heeft om gebruik te maken van de API’s. Voor meer informatie of JWT-tokens klik [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf). Hieronder laat ik de API zien die de JWT-token aanmaakt:
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/4cf0e9cc-3b0f-4adf-93b3-6a64c949482e)
 
-Hier kun je de API genaamd token zien. Je kunt hier zien dat het een GET API is met de route /token. De eerste 2 regels in de API zijn de data ophalen uit de header van de API. Daarna gaan we de JWT-token ophalen in de class token als de gegevens goed zijn. Daarna gaat de token teruggestuurd worden via de body.
+Hier kun je zien hoe de API genaamd token gemaakt wordt. Je kunt hier zien dat het een GET API is met de route /token. De eerste 2 regels in de API zijn de data ophalen uit de header van de API. Daarna gaan we de JWT-token ophalen in de class token als de gegevens goed zijn. Daarna gaat de token teruggestuurd worden via de body.
 
 ## JWT-token
 We hebben het er net over gehad dat we een API hebben aangeroepen waar we een JWT-token maken, hier gaan we kijken hoe we de JWT-token doen aanmaken. Hieronder zie je hoe de JWT-token wordt aangemaakt.
