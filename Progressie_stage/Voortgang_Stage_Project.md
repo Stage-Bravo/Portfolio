@@ -30,3 +30,10 @@ Dat is hoe de Token wordt aangemaakt maar nu gaan we kijken hoe we kijken of de 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/e8bc140e-cde9-4de8-bbc3-efaa8dde2aca)
  
 Als eerste onderdeel kijken we of de JWT-token uit 2 delen bestaat en als dat zo is halen we die 3 delen uit elkaar. Dan decoden we de header en de payload zodat we weten wat daarin zit. Dan kijken we eerst of het een JWT-token is met de goeie gegevens erin en daarna kijken we of de token nog geldig is in tijd. 
+
+## Swagger 
+Om documentatie te maken voor de API’s maak ik gebruik van Swagger. Hierdoor kan er makkelijk en overzichtelijk gezien worden welke API’s er beschikbaar zijn en wat ze doen. Hierdoor hoeft er geen uitgebreide documentatie gemaakt te worden voor anderen zodat ze we en bespaard het tijd. Naast dat is het handig om de API’s te testen op een overzichtelijke manier en hoef je niet steeds een front-end te maken om de interactie met de API’s te testen. Hieronder laat ik zien hoe je een API doet opzetten in Swagger.
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/048fb5c2-eac9-44a6-a3b3-84e2e93bb76e)
+ 
+Hierboven zie je hoe je een API documenteert in Swagger. Ik heb de API gepakt waar je een token mee doet aanmaken die ik bij een ander voorbeeld ook al heb gebruikt. De Swagger APi moet gemaakt worden in comments. Je gaat erin omschrijven hoe de API er uit ziet dus je begint met het pad en dan ga je de parameters toevoegen. Je kunt het een naam, beschrijven en requirements waardoor de API duidelijk wordt omschreven. Hieronder kun je zien hoe het er in Swagger er uitziet. 
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/c8662ac8-e7d3-4b47-bc4e-e617068ade86)
