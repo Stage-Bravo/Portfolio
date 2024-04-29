@@ -16,7 +16,7 @@ Het doel van de opdracht is om een gestructureerde API-laag te ontwikkelen voor 
 
 ## Documenten 
 [Onderzoeken](https://github.com/Stage-Bravo/Portfolio/tree/main/Onderzoek)<br>
-[Retrospective](https://github.com/Stage-Bravo/Portfolio/blob/main/Retrospective.md) 
+[Retrospective](https://github.com/Stage-Bravo/Portfolio/blob/main/Retrospective.md) <br>
 [Progessie stage](https://github.com/Stage-Bravo/Portfolio/tree/main/Progressie_stage) 
 
 ## Leeruitkomsten
