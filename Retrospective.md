@@ -35,3 +35,12 @@ Cominucatie |  |  Midterm revieuw
 Werk uitgevoerd |  | 
 
 De afgelopen sprint is de cominucatie richting de de collega's op kantoor goed gegaan over het werk. Ik heb al de doelen voor deze sprint uitgevoerd die ik op heb gesteld. Hierdoor loop ik goed op schema die ik voor me zelf heb opgesteld. Dit heeft niet echt met mijn stage te maken maar ik had mijn midterm revieuw beter moeten voorbereiden. Hierdoor kon ik mijn progessie niet goed kunne laten zien en met wat voor project ik bezig ben.
+
+## Sprint 5
+Hieronder staat mijn vijfde retrospective van mijn stage. 
+Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter 
+--- | --- | ---
+Cominucatie | Bij het zelfde probleem blijven |  
+Planning |  | 
+
+2 weken geleden heb ik een gesprek gehad met mijn asseresor en hebben we afgesproken om een strakere planning te maken zodat ik mijn leerdoelen voor school kan aantonen. We hebben nu om de week een gesprek zodatw e goed kunnen bijhouden of ik goed op schema loop. Vanaf dat gesprek hebben we een planning gemaakt voor 3 weken. Die planning loopt nu dus nog door en loopt daarom niet helemaal gelijk met de sprints. De afgelopen sprint is goed verlpopen alleen het enige minpuntje bijmezelf is dat ik te lang bij het zelfde probleem ben blijven hangen. Hierdoor heb ik een iets meer dan een dag verspilt die ik beter had kunnen gebruiken. Maar desondanks is de rest van sprint goed verlopen. De comminicatie ging goed ook al heb ik minder over het project gesproken maar dit kwam omdat ik weinig vragen had. Omdat deze sprint zo goed is verlopen is ook omdat ik een goeie planning heb opgesteld waardoor een goeie progessie heb kunnen maken. 
