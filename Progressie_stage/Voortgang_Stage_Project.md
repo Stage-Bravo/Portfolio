@@ -16,7 +16,7 @@ Voor dit project heb ik een aantal keuzes gemaakt en die wil ik in het stuk besc
 Bij mijn stage bedrijf wordt er geen gebruik gemaakt van OOP. Dit wil ik doormiddel van dit project laten zien hoe het werkt en wat de voordelen daarvan zijn. 
 ### MVC
 Ik wil doormiddel van MVC te gebruiken laten zien hoe je een MVC-applicatie opstelt en wat de voordelen daarvan zijn. Hierdoor zal het bedrijf de kennis hebben om een MVC-applicatie op te kunnen stellen voor misschien een toekomstig project. 
-### Nederlandse taal
+### In het nederlands programeren
 Vanwege hoe Mijn Jachtveld is gemaakt heb ik besloten om te programmeren in het Nederlands. Dit doe ik omdat ik niet te veel wil afwijken van hoe ze hier doen programmeren. 
 
 ## API’s 
