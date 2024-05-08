@@ -3,6 +3,7 @@
 ## Inhoudsopgave
 [Inleiding](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#inleiding)<br>
 [De opdracht](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#de-opdracht)<br>
+[Het Stage Bedrijf](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#het-stage-bedrijf)<br>
 [Documenten](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#documenten)<br>
 [Leeruitkomsten](https://github.com/Stage-Bravo/Portfolio/blob/main/README.md#leeruitkomsten)
 
