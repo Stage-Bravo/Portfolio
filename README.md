@@ -12,12 +12,12 @@ Welkom bij mijn portfolio van semester 5. In mijn portfolio vind je gedeeltes va
 In dit semester loop ik stage bij Bravo in Baarlo. Hier heb ik in een interne opdracht aan het werken in de applicatie van Mijn Jachtveld. De opdracht is dat ik hier een API laag aan toe voeg zodat het bedrijf met derde data kan uitwisselen. 
 
 ## De Opdracht
-Het doel van de opdracht is om een gestructureerde API-laag te ontwikkelen voor de webapplicatie van Mijn Jachtveld. Hierdoor zou er data kunnen worden uitgewisseld worden aan andere organisaties waardoor Mijn Jachtveld ook data kan gebruiken van andere bedrijven. Dit moet natuurlijk op een veilige manier gebeuren daarom moet er aandacht worden gegeven aan de veiligheid van de API’s. De API-laag moet worden toegevoegd in een al bestaande webapplicatie dus er moet goed gekeken worden hoe dit gedaan wordt. 
+Het doel van de opdracht is om een gestructureerde API-laag te ontwikkelen voor de webapplicatie van Mijn Jachtveld. Hierdoor zou er data kunnen worden uitgewisseld worden aan andere organisaties waardoor Mijn Jachtveld ook data kan gebruiken van andere bedrijven. Dit moet natuurlijk op een veilige manier gebeuren, daarom moet er aandacht worden gegeven aan de veiligheid van de API’s. De API-laag moet worden toegevoegd in een al bestaande webapplicatie dus er moet goed gekeken worden hoe dit gedaan wordt. 
 
 ## Documenten 
 [Onderzoeken](https://github.com/Stage-Bravo/Portfolio/tree/main/Onderzoek)<br>
 [Retrospective](https://github.com/Stage-Bravo/Portfolio/blob/main/Retrospective.md) <br>
-[Progessie stage](https://github.com/Stage-Bravo/Portfolio/tree/main/Progressie_stage) 
+[Progressie stage](https://github.com/Stage-Bravo/Portfolio/tree/main/Progressie_stage) 
 
 ## Leeruitkomsten
 Hier zijn de leerresultaten die ik heb behaald, samen met het bewijs van mijn werk.
