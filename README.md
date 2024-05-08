@@ -12,7 +12,7 @@ Welkom bij mijn portfolio van semester 5. In mijn portfolio vind je gedeeltes va
 In dit semester loop ik stage bij Bravo in Baarlo. Hier heb ik in een interne opdracht aan het werken in de applicatie van Mijn Jachtveld. De opdracht is dat ik hier een API laag aan toe voeg zodat het bedrijf met derde data kan uitwisselen. 
 
 ## Het Stage Bedrijf
-Voor mijn stage periode loop ik stage bij Bravo. Bravo is gevestigd in Baarlo en dat is een dorp in de buurt van Venlo. Bij dit bedrijf werken 2 mensen die zich full-time bezig houden met het maken van web-applicatie. Het bedrijf bestaat dit jaar al 25 jaar.
+Voor mijn stage periode loop ik stage bij Bravo. Bravo is gevestigd in Baarlo en dat is een dorp in de buurt van Venlo. Bij dit bedrijf werken 2 mensen die zich full-time bezig houden met het maken van web-applicatie. Het bedrijf bestaat dit jaar al 25 jaar. <br>
 
 ## De Opdracht
 Het doel van de opdracht is om een gestructureerde API-laag te ontwikkelen voor de webapplicatie van Mijn Jachtveld. Hierdoor zou er data kunnen worden uitgewisseld worden aan andere organisaties waardoor Mijn Jachtveld ook data kan gebruiken van andere bedrijven. Dit moet natuurlijk op een veilige manier gebeuren, daarom moet er aandacht worden gegeven aan de veiligheid van de API’s. De API-laag moet worden toegevoegd in een al bestaande webapplicatie dus er moet goed gekeken worden hoe dit gedaan wordt. 
