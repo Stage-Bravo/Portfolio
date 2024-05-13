@@ -25,3 +25,5 @@ Het applicatie onderzoek heb ik uitgesteld omdat ik na gekeken te hebben in de b
 
 ### Sprint 4, 5, 6 en 7
 In deze sprints ben ik begonnen met het maken van het project. Na mijn onderzoekje waarbij ik heb gekeken hoe ik het beste een API kan opzetten heb ik mijn test versie gepakt en het verder ontwikkeld. Om te zien wat ik daar allemaal in heb gemaakt en welke keuzes ik heb gemaakt kun je mijn [Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) zien. Hier ga ik dieper in op wat ik doe en waarom ik dat doe. 
+
+Naast dat ben ik heel erg bezig geweest hoe ik mijn stage uitgebreider kan zodat ik alle leeruitkomsten kan gaan aantonen. Dit heb ik gedaan door te vragen welke endpoint er nodig zijn om dit project tot een goede uitkomst te krijgen. Naast dat ga ik de API’s op een server runnen en daarbij ga ik kijken of ik dit automatisch kan laten lopen via github. 
