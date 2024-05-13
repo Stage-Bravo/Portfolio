@@ -1,4 +1,4 @@
-# Voortgang Stage Project
+# Project Beschrijving 
 
 ## Inhoudsopgave
 [Introductie](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#introductie)<br>
