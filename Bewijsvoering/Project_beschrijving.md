@@ -42,3 +42,11 @@ Om documentatie te maken voor de API’s maak ik gebruik van Swagger. Hierdoor k
  
 Hierboven zie je hoe je een API documenteert in Swagger. Ik heb de API gepakt waar je een token mee doet aanmaken die ik bij een ander voorbeeld ook al heb gebruikt. De Swagger API moet gemaakt worden in comments. Je gaat erin omschrijven hoe de API er uit ziet, dus je begint met het pad en dan ga je de parameters toevoegen. Je kunt het een naam, beschrijven en requirements waardoor de API duidelijk wordt omschreven. Hieronder kun je zien hoe het er in Swagger er uitziet. 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/c8662ac8-e7d3-4b47-bc4e-e617068ade86)
+
+## Testen 
+Om te kijken of de functies goed werken die ik heb gemaakt ga ik testen schrijven zodat we weten of er geen errors in de applicatie zitten. Hiervoor wordt phpunit gebruikt en dat is de standaard voor het testen van PHP code. De enige functies die testen omvatten zitten in de logic laag. Hiervoor gebruik ik mockdata zodat er niks aangepast wordt in de DAL-laag. Hieronder zie je 2 testen als voorbeeld dat ik heb opgesteld waarbij gekeken wordt of er op een goeie manier een token wordt aangemaakt. Hierbij wordt er een keer de goeie gegevens meegegeven en de andere keer worden de verkeerde gegevens meegegeven. 
+ ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/68e8add6-2f05-4fc7-8f1a-c1b576029004)
+
+Om de testen te runnen moet je via de terminal een command aanroepen die het phpunit bestand doet runnen. Het ziet er dan zo uit als we de test die we net hebben gemaakt te runnen.
+ ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/dee7d71d-039e-466f-9b3f-3f80e3962977)
+
