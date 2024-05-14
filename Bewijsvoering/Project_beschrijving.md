@@ -50,3 +50,10 @@ Om te kijken of de functies goed werken die ik heb gemaakt ga ik testen schrijve
 Om de testen te runnen moet je via de terminal een command aanroepen die het phpunit bestand doet runnen. Het ziet er dan zo uit als we een bestand met 2 testen te runnen.
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/dee7d71d-039e-466f-9b3f-3f80e3962977)
 
+ ## API's gebruiken/testen
+ Om mijn API’s te testen/gebruiken maak ik soms een simpele webpagina aan of ik gebruik postman om de API’s te gebruiken. Als ik gebruik moet maken van afbeeldingen heb ik geen andere keuze om een webpagina te maken omdat je geen afbeeldingen mee kan sturen via Postman. Als dat niet hoeft en ik hoef alleen een paar simpele values te sturen kan ik gebruik maken van Postman. Dit is een simpele extensie in Visual studio die het makkelijker maakt om API’s te gebruiken. Ik hoef alleen de link naar de webpagina te pakken en daar de headers aan toe te voegen die bij de API horen. Om dit niet elke keer op nieuw in te vullen kan ik de calls opslaan en de dag erna weer kan hergebruiken. Het ziet er dan zo uit om een API aan te roepen met de value die ik dan terugkrijg. 
+ ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/9bc192d5-c19c-41b8-9871-118704cb5e2e)
+
+Als ik gebruik maak om een simpele webpagina te maken en die te runnen op een lockalhost kost het me veel tijd om te maken maar je ziet dan wel een duidelijk eindproduct. Het maken vaan aanpassingen in de headers kost meer tijd en dat is voor het testen van de API niet handig. De uitkomst van zoon API-call ziet er dan zo uit. 
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/3d249ecf-9105-4b1f-808f-dc9ee27b5310)
+
