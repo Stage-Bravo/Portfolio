@@ -1,6 +1,11 @@
 # Stageverloop
 In dit document omschrijf ik hoe het verloop van de stage is gegaan en wat ik allemaal heb gedaan. Ik werk met sprints van telkens 2 weken. De sprints die zet ik op in Github en na elke sprint kijk ik wat ik heb gehaald en maak ik een retrospective van wat er goed en minder goed die sprint ging. 
 
+## Inhoudsopgave
+[Sprints](https://github.com/Stage-Bravo/Portfolio/tree/main/Bewijsvoering#sprints)<br>
+[Persoonlijke ontwikkeling](https://github.com/Stage-Bravo/Portfolio/tree/main/Bewijsvoering#persoonlijke-ontwikkeling)<br>
+[Verloopstage](https://github.com/Stage-Bravo/Portfolio/tree/main/Bewijsvoering#verloopstage)<br>
+
 ## Sprints 
 Om mijn sprints in te plannen maak ik een bord in Github waar ik mijn planning van de komende 2 weken opstel. Hiermee maak ik 4 koppen aan, TODO, In Progress, Feedback en Done. Hieronder laat ik een voorbeeld zien van hoe een sprint planning eruitziet.
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/7cd8a00b-3ad5-44ca-b29f-04dcb6a69a35)
@@ -8,6 +13,8 @@ Om mijn sprints in te plannen maak ik een bord in Github waar ik mijn planning v
 Bij elk item dat ik in de planning heb aangemaakt heb ik omschrijving erbij gezet waardoor ik beter weet wat ik bedoelde en dan kunne anderen het ook beter begrijpen wat ik in de planning omschrijf. Hieronder zie je daar een voorbeeld van: 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/1b4d302b-99ec-463b-884c-a4731ea635ab)
 
+## Persoonlijke ontwikkeling
+Ik heb een bestand gemaakt waarbij ik op heb geschreven hoe ik me op een persoonlijk vlak heb verbeterd. Dit heeft te maken met hoe ik me heb ontwikkeld hoe je bij een bedrijf moet werken. [HIER]( https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Persoonlijke_ontwikkeling.md) kan naar het bestand gekeken worden. 
 
 ## Verloopstage
 In de eerste week heb ik in mijn projectplan een algemene planning gemaakt voor mijn stage en die ziet er zo uit: 
