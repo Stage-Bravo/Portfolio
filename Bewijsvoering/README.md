@@ -34,6 +34,6 @@ Het applicatie onderzoek heb ik uitgesteld omdat ik na gekeken te hebben in de b
 ### Sprint 4, 5, 6 en 7
 In deze sprints ben ik begonnen met het maken van het project. Na mijn onderzoekje waarbij ik heb gekeken hoe ik het beste een API kan opzetten heb ik mijn test versie gepakt en heb de beste versie verder ontwikkeld. Om te zien wat ik daar allemaal in heb gemaakt en welke keuzes ik heb gemaakt kun je mijn [Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) zien. Hier ga ik dieper in op wat ik doe en waarom ik dat doe. 
 
-Het project heb ik van een localhost naar een locale server verplaats. Hierdoor kan ik ik nabootsen hoe de API's reageren op een publieke server.
+Het project heb ik van een localhost naar een lokale server verplaats. Hierdoor kan ik nabootsen hoe de API's reageren op een publieke server. Hierdoor hoef ik geen aandacht meer te besteden aan cross handelingen.
 
 Naast dat ben ik veel bezig geweest met hoe ik mijn stage uitgebreider kan maken zodat ik alle leeruitkomsten uitgebreid kan gaan aantonen. Dit heb ik gedaan door te vragen welke endpoint er nodig zijn om dit project tot een goede uitkomst te krijgen. Naast dat ga ik de API’s op een server runnen en daarbij ga ik kijken of ik dit automatisch kan laten lopen via github waarbij ik gebruik maak van ci/cd. 
