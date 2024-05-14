@@ -12,10 +12,10 @@ Bij elk item dat ik in de planning heb aangemaakt heb ik omschrijving erbij geze
 ## Verloopstage
 In de eerste week heb ik in mijn projectplan een algemene planning gemaakt voor mijn stage en die ziet er zo uit: 
 Fasering |	Effort | 	Start |	Gereed
-1	Onderzoek	|	Week 1	| Week 6
-2	Applicatie onderzoek	|	Week 7 |	Week 7
-3	API-laag maken	|	Week 8 |	Week 16
-4	Afronden	|	Week 17	| Week 18
+1 |	Onderzoek	|	Week 1	| Week 6
+2	| Applicatie onderzoek	|	Week 7 |	Week 7
+3	| API-laag maken	|	Week 8 |	Week 16
+4	| Afronden	|	Week 17	| Week 18
 
 ### Sprints 1, 2 en 3
 De eerste 6 weken ben ik zoals gepland bezig geweest het onderzoek. Dit is een onderzoek waarbij ik kijk wat een API is en wat de beste manier is om een API op te zetten. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) het onderzoeksrapport. <br>
