@@ -17,7 +17,7 @@ Bij elk item dat ik in de planning heb aangemaakt heb ik omschrijving erbij geze
 Ik heb een bestand gemaakt waarbij ik op heb geschreven hoe ik me op een persoonlijk vlak heb verbeterd. Dit heeft te maken met hoe ik me heb ontwikkeld hoe je bij een bedrijf moet werken. [HIER]( https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Persoonlijke_ontwikkeling.md) kan naar het bestand gekeken worden. 
 
 ## Verloopstage
-In de eerste week heb ik in mijn projectplan een algemene planning gemaakt voor mijn stage en die ziet er zo uit: 
+In de eerste week heb ik in mijn projectplan een algemene planning gemaakt voor mijn stage. De planning heb ik zo gemaakt zodat ik eerst een kan onderzoeken zodat ik daarna de kennis van het onderzoek mee kan nemen in mijn uitwerking. De planning die ik heb gemaakt ziet er zo uit:
 Fasering |	Effort | 	Start |	Gereed
 --- | --- | --- | --- 
 1 |	Onderzoek	|	Week 1	| Week 6
