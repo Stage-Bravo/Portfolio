@@ -27,7 +27,7 @@ Fasering |	Effort | 	Start |	Gereed
 
 ### Sprints 1, 2 en 3
 De eerste 6 weken ben ik zoals gepland bezig geweest het onderzoek. Dit is een onderzoek waarbij ik kijk wat een API is en wat de beste manier is om een API op te zetten. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) het onderzoeksrapport. <br>
-Naast dat heb zelf voor een aantal API frameworks opgesteld voor me om te kijken welke het beste bij dit project past. Naast dat heb ik de beveiliging op gesteld zodat ik gelijk een voorsprongetje heb gehad op mijn planning. [HIER](https://github.com/Stage-Bravo/PHP-API-Framworks) kan gevonden worden wat ik allemaal heb gedaan om te testen met verschillende frameworks. 
+Omdat ik goed en snel door het onderoeksrapport ben gegaan heb ik een aantal API frameworks opgesteld voor te kijken welke het beste bij dit project past. Naast dat heb ik de beveiliging op gesteld zodat ik gelijk een voorsprongetje heb gehad op mijn planning. [HIER](https://github.com/Stage-Bravo/PHP-API-Framworks) kan gevonden worden wat ik allemaal heb gedaan om te testen met verschillende frameworks. Hiermee wilde ik mijn onderzoek voor mijzelf valideren en daardoor krreg ik gelijk een voorspring op de volde vase van mijn stage.
 
 Het applicatie onderzoek heb ik uitgesteld omdat ik na gekeken te hebben in de bestaand applicatie geen OOP en geen MVC. Hierdoor kan ik geen functies hergebruiken dus om API’s te maken moet ik een geheel apart project maken wat ik ook heb gemaakt. Om de voordelen van OOP en MVC te laten zien heb ik een onderzoek document gemaakt die je [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Applicatie%20Onderzoek.pdf) kan vinden.
 
