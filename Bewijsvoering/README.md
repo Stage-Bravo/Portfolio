@@ -13,7 +13,7 @@ Om mijn sprints in te plannen maak ik een bord in Github waar ik mijn planning v
 Bij elk item dat ik in de planning heb aangemaakt heb ik omschrijving erbij gezet waardoor ik beter weet wat ik bedoelde en dan kunne anderen het ook beter begrijpen wat ik in de planning omschrijf. Hieronder zie je daar een voorbeeld van: 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/1b4d302b-99ec-463b-884c-a4731ea635ab)
 
- Na elke sprint maak ik een retrospective
+ Na elke sprint maak ik een [retrospective](https://github.com/Stage-Bravo/Portfolio/blob/main/Retrospective.md) waardoor over wat er goed ging en wat er beter kon in de sprint. Hierdoor weet ik na elke sprint waar ik mee moet doorgaan en waar ik meer op moet letten. Daardoor hoop ik elke sprint op vooruit te gaan waardoor ik uitijndelijk een beter eindproduct kan opleveren. 
 
 ## Persoonlijke ontwikkeling
 Ik heb een bestand gemaakt waarbij ik op heb geschreven hoe ik me op een persoonlijk vlak heb verbeterd. Dit heeft te maken met hoe ik me heb ontwikkeld hoe je bij een bedrijf moet werken. [HIER]( https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Persoonlijke_ontwikkeling.md) kan naar het bestand gekeken worden. 
