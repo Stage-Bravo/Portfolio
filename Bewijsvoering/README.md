@@ -8,9 +8,11 @@ In dit document omschrijf ik hoe het verloop van de stage is gegaan en wat ik al
 
 ## Sprints 
 Om mijn sprints in te plannen maak ik een bord in Github waar ik mijn planning van de komende 2 weken opstel. Hiermee maak ik 4 koppen aan, TODO, In Progress, Feedback en Done. Hieronder laat ik een voorbeeld zien van hoe een sprint planning eruitziet.
+
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/7cd8a00b-3ad5-44ca-b29f-04dcb6a69a35)
  
 Bij elk item dat ik in de planning heb aangemaakt heb ik omschrijving erbij gezet waardoor ik beter weet wat ik bedoelde en dan kunne anderen het ook beter begrijpen wat ik in de planning omschrijf. Hieronder zie je daar een voorbeeld van: 
+
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/1b4d302b-99ec-463b-884c-a4731ea635ab)
 
  Na elke sprint maak ik een [retrospective](https://github.com/Stage-Bravo/Portfolio/blob/main/Retrospective.md) waardoor over wat er goed ging en wat er beter kon in de sprint. Hierdoor weet ik na elke sprint waar ik mee moet doorgaan en waar ik meer op moet letten. Daardoor hoop ik elke sprint op vooruit te gaan waardoor ik uitijndelijk een beter eindproduct kan opleveren. 
