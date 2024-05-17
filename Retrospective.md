@@ -44,3 +44,20 @@ Communicatie | Bij hetzelfde probleem blijven |
 Planning |  | 
 
 2 weken geleden heb ik een gesprek gehad met mijn assessor en hebben we afgesproken om een strakkere planning te maken, zodat ik mijn leerdoelen voor school kan aantonen. We hebben nu om de week een gesprek zodat we goed kunnen bijhouden of ik goed op schema loop. Vanaf dat gesprek hebben we een planning gemaakt voor 3 weken. Die planning loopt nu dus nog door en loopt daarom niet helemaal gelijk met de sprints. De afgelopen sprint is goed verlopen, alleen het enige minpuntje bij mezelf is dat ik te lang bij hetzelfde probleem ben blijven hangen. Hierdoor heb ik een iets meer dan een dag verspilt die ik beter had kunnen gebruiken. Maar desondanks is de rest van sprint goed verlopen. De communicatie ging goed, ook al heb ik minder over het project gesproken, maar dit kwam omdat ik weinig vragen had. Omdat deze sprint zo goed is verlopen is ook omdat ik een goeie planning heb opgesteld waardoor een goeie progressie heb kunnen maken. 
+
+## Sprint 6
+Hieronder staat mijn zesde retrospective van mijn stage. 
+Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter 
+--- | --- | ---
+Communicatie |  | 
+Planning |  | 
+
+De vorige sprint heb ik aangegeven om een sprint van 3 weken te doen maar omdat alle punten die ik aan heb gegeven te doen al heb afgerond heb ik besloten om de sprint na 2 weken te stoppen en nu verder te gaan met een nieuwe. Ik heb goed door kunnen werken en veel werk af kunnen krijgen. De communicatie was niet veel maar ik had ook weinig vragen en de planning die was goed want ik heb.
+
+## Sprint 7
+Hieronder staat mijn zevende retrospective van mijn stage. 
+Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter 
+--- | --- | ---
+Planning |  | Nieuwe doelen stellen
+ |  | 
+Met sprint 7 is het voor het grootste gedeelte goed gegaan. Ik heb al de doelen behaalt die ik in het begin van de sprint heb opgesteld alleen heb ik het gevoel dat ik meer heb kunnen bereiken. Dit komt omdat ik te veel in detail ben gaan werken met de doelen die ik heb opgesteld maar ik kon beter nieuwe doelen stellen die gerichter waren. Hier ga ik in de volgende sprint proberen op te letten door gerichter doelen te stellen en als de doelen klaar zijn of bijna klaar zijn er nieuwe toe te voegen.
