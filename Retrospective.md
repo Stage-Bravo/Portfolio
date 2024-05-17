@@ -59,5 +59,5 @@ Hieronder staat mijn zevende retrospective van mijn stage.
 Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter 
 --- | --- | ---
 Planning |  | Nieuwe doelen stellen
- |  | 
+
 Met sprint 7 is het voor het grootste gedeelte goed gegaan. Ik heb al de doelen behaalt die ik in het begin van de sprint heb opgesteld alleen heb ik het gevoel dat ik meer heb kunnen bereiken. Dit komt omdat ik te veel in detail ben gaan werken met de doelen die ik heb opgesteld maar ik kon beter nieuwe doelen stellen die gerichter waren. Hier ga ik in de volgende sprint proberen op te letten door gerichter doelen te stellen en als de doelen klaar zijn of bijna klaar zijn er nieuwe toe te voegen.
