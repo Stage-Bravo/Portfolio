@@ -32,15 +32,32 @@ Fasering |	Effort | 	Start |	Gereed
 ### Sprints 1, 2 en 3
 De eerste 6 weken ben ik zoals gepland bezig geweest het onderzoek. Dit is een onderzoek waarbij ik kijk wat een API is en wat de beste manier is om een API op te zetten. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) het onderzoeksrapport. <br>
 
-Omdat ik goed en snel door het onderoeksrapport ben gegaan heb ik een aantal API frameworks opgesteld voor te kijken welke het beste bij dit project past. Naast dat heb ik de beveiliging op gesteld zodat ik gelijk een voorsprongetje heb gehad op mijn planning. [HIER](https://github.com/Stage-Bravo/PHP-API-Framworks) kan gevonden worden wat ik allemaal heb gedaan om te testen met verschillende frameworks. Hiermee wilde ik mijn onderzoek voor mijzelf valideren en daardoor krreg ik gelijk een voorspring op de volde vase van mijn stage.
+Omdat ik goed en snel door het onderzoeksrapport ben gegaan heb ik een aantal API frameworks opgesteld voor te kijken welke het beste bij dit project past. Naast dat heb ik de beveiliging op gesteld zodat ik gelijk een voorsprongetje heb gehad op mijn planning. [HIER](https://github.com/Stage-Bravo/PHP-API-Framworks) kan gevonden worden wat ik allemaal heb gedaan om te testen met verschillende frameworks. Hiermee wilde ik mijn onderzoek voor mijzelf valideren en daardoor kreeg ik gelijk een voorspring op de volde fase van mijn stage.
 
 Het applicatie onderzoek heb ik uitgesteld omdat ik gekeken heb naar de bestaande applicatie geen OOP en geen MVC. Hierdoor kan ik geen functies hergebruiken dus om API’s te maken moet ik een geheel apart project maken wat ik ook heb gemaakt. 
 
-### Sprint 4, 5, 6 en 7
-In deze sprints ben ik begonnen met het maken van het project. Na mijn onderzoekje waarbij ik heb gekeken hoe ik het beste een API kan opzetten heb ik mijn test versie gepakt en heb de beste versie verder ontwikkeld. Om te zien wat ik daar allemaal in heb gemaakt en welke keuzes ik heb gemaakt kun je mijn [Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) zien. Hier ga ik dieper in op wat ik doe en waarom ik dat doe. 
+### Sprint 4
+In deze sprint ben ik begonnen met het maken van het project. Na mijn onderzoek waarbij ik heb gekeken hoe ik het beste een API kan opzetten heb ik mijn test versie gepakt en heb de beste versie verder ontwikkeld. Om te zien wat ik daar allemaal in heb gemaakt en welke keuzes ik heb gemaakt kun je mijn [Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) zien. Hier ga ik dieper in op wat ik doe en waarom ik dat doe. 
 
-Het project heb ik van een localhost naar een lokale server die op het bedrijf gebruikt wordt verplaats. Hierdoor kan ik nabootsen hoe de API's reageren op een publieke server. Hierdoor hoef ik geen aandacht meer te besteden aan cross handelingen.
+De endpoints die ik deze sprint heb gemaakt voor het project zijn het inloggen zodat je een JWT-token terugkrijgt. Daarnaast heb ik een functie gemaakt waarbij de JWT-token wordt gevalideerd. Die functie heb ik getest op een test API die ik nu niet meer gebruik. Hieronder zie je hoe die functies aangeroepen worden.
+ 
+De functie moet aangeroepen worden door /token te gebruiken. We vragen om de headers email en wachtwoord mee te sturen. Die hebben we namelijk nodig om te kijken of de gebruiker toegang heeft tot de API’s en in welke WBE hij hoort. Er wordt dan een dependecy injection gebruikt voor het aanroepen van functies in andere lagen. We roepen dan uiteindelijk een de functie maakToken aan in de class tokenCollectie die we dan gelijk gereturnd via de API. 
 
-Het appliactie onderzoek heb ik uitgesteld omdat er niet met OOP gewerkt is en er verder weinig structuur in zit. Nu dat ik verder ben in het project heb ik opgeschreven hoe de applicatie er nu uitziet vergeleken  hoe we het op school aangeleerd krijgen. Hier heb ik de voor en nadelen van opgeschreven van beide kanten. Naast dat heb ik beschreven hoe de API in het project gedesigned is. Het onderzoek kun je [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) vinden.
+Zo ziet de class tokenCollectie eruit die in de laag logic zit. 
+ 
 
-Naast dat ben ik veel bezig geweest met hoe ik mijn stage uitgebreider kan maken zodat ik alle leeruitkomsten uitgebreid kan gaan aantonen. Dit heb ik gedaan door te vragen welke endpoint er nodig zijn om dit project tot een goede uitkomst te krijgen. Naast dat ga ik de API’s op een server runnen en daarbij ga ik kijken of ik dit automatisch kan laten lopen via github waarbij ik gebruik maak van ci/cd. 
+Naast dat heb ik het project van een localhost naar een lokale server die op het bedrijf gebruikt wordt verplaats. Hierdoor kan ik nabootsen hoe de API's reageren op een publieke server. Hierdoor hoef ik geen aandacht meer te besteden aan cross handelingen. 
+
+
+Het applicatie onderzoek heb ik uitgesteld omdat er niet met OOP gewerkt is en er verder weinig structuur in zit. Nu dat ik verder ben in het project heb ik opgeschreven hoe de applicatie er nu uitziet vergeleken hoe we het op school aangeleerd krijgen. Hier heb ik de voor- en nadelen van opgeschreven van beide kanten. Naast dat heb ik beschreven hoe de API in het project gedesigneerd is. Het onderzoek kun je [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) vinden.
+
+### Sprint 5
+In sprint 5 ben ik vooral bezig geweest met het uitbreiden van het project. Hiermee heb ik de endpoints gegevens ophalen gemaakt en heb ik een functie gemaakt die de user id uit de JWT-token haalt. Daarnaast heb ik verbeterpunten toegepast aan mijn onderzoeksrapport. In deze sprint ben ik ook verder bezig geweest om het applicatie onderzoek uit te breiden. 
+
+Naast dat ben ik ook bezig geweest met hoe ik mijn stage uitgebreider kan maken. Dit is omdat er met een gesprek met mijn assessor er twijfels kwamen wat ik nog kan laten zien om alle leeruitkomsten goed te kunnen behalen. Daarom gaan we contact leggen met het bedrijf dat de API’s zou gaan gebruiken om te kijken hoe we het kunnen uitbreiden.
+
+### Sprint 6
+Naast dat ben ik veel bezig geweest met hoe ik mijn stage uitgebreider kan maken zodat ik alle leeruitkomsten uitgebreid kan gaan aantonen. Dit heb ik gedaan door te vragen welke endpoint er nodig zijn om dit project tot een goede uitkomst te krijgen. Naast dat ga ik de API’s op een server runnen en daarbij ga ik kijken of ik dit automatisch kan laten lopen via Github waarbij ik gebruik maak van ci/cd. 
+
+### Sprint 7
+ 
