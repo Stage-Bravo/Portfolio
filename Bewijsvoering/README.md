@@ -137,6 +137,8 @@ In de vorige sprint hebben we als eerste gekeken welke endpoints erbij moeten ga
 
 In deze sprint ben ik ook begonnen met het maken van [project beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) waar ik mijn keuzes beschrijf die ik heb gemaakt. Hier ga ik wat meer in op de technieken die ik gebruik en waarom ik voor die techniek heb gekozen. 
 
+Deze sprint heb ik ook een probleem gehad met de libraries die ik gebruik voor mijn project. Dit kwam omdat ik een package deed updaten naar een oudere versie waardoor het hele project niet meer werkte. Ik had natuurlijk geen back-up gemaakt waardoor ik minimaal een dag kwijt ben geweest om het op te lossen. Dit is een goeie les geweest voor de volgende keer om wel een back-up te maken.
+
 Er is ook voor gezorgd dat er een server is waar ik de applicatie op kan gaan hosten. Naast dat heb ik gekeken of ik lokaal GitHub kon gaan gebruiken om gebruik te kunnen maken van ci./cd maar dat kan niet en daarom moet ik een alternatief ervoor gaan zoeken. 
 
  
