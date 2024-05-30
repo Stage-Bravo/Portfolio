@@ -141,4 +141,26 @@ Deze sprint heb ik ook een probleem gehad met de libraries die ik gebruik voor m
 
 Er is ook voor gezorgd dat er een server is waar ik de applicatie op kan gaan hosten. Naast dat heb ik gekeken of ik lokaal GitHub kon gaan gebruiken om gebruik te kunnen maken van ci./cd maar dat kan niet en daarom moet ik een alternatief ervoor gaan zoeken. 
 
+### Sprint 8
+In deze sprint ben ik vooral bezig geweest met alles rond het project op de server zetten. Dit kwam omdat dat er nog extra problemen bij kwamen die ik van tevoren niet zag aankomen. Daarnaast heeft deze sprint ook een dag minder gehad vanwege Pinksteren. Maar in het begin van deze sprint ben ik begonnen met het afmaken van dit bestand. Dit heeft me veel tijd gekost om het op een goeie manier op te zetten.
+
+Daarna ben ik begonnen met het project op de server te zetten. Hiervoor heb ik FileZilla omdat het hier op het stagebedrijf wordt gebruikt. De server is voor mij opgezet en heb de gegevens ervoor gekregen waardoor ik heb kunnen inloggen op de server. Toen heb ik nog de inlog gegevens van de database moeten veranderen naar een database die op een server staat. 
+
+Toen kwam ik erachter dat swagger niet meer werkte en heb daar een aantal dingen moeten veranderen. Ik heb een html pagina gemaakt waardoor je online naar een swagger pagina kunt kijken. De html van die pagina ziet er zo uit.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/2e206f2a-7b13-4cf7-8002-db6bd57b9f65)
+
+En dan ziet het resultaat er zo uit.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/1d671de4-7c7a-413f-8173-367b15d48e45)
  
+Om dit voor elkaar te krijgen heb ik vrij lang moeten zoeken naar het juiste resultaat. De json en yaml bestanden die ik genereer zijn niet goed en krijg een error dat het bestand verkeerd is. Door op de site van swagger het yaml bestand in te voeren en te downloaden werkt het nu wel. Waarom het dan wel werkt weet ik niet want er is geen code aangepast of toegevoegd. Het enige verschil dat ik kan zien is dat het bestand van swagger in kb’s iets groter is.
+
+Naast dat heb ik nog een probleem gehad met swagger. Als je data meestuurde via swagger kreeg de API de data niet binnen. Dit kwam omdat de server geen data wilde ontvangen die via een header meegestuurd werd. Dat probleem heb ik kunnen oplossen door in de .htaccess file deze regel heb toegevoegd. 
+```
+Header set Access-Control-Allow-Origin "*"
+```
+
+Naast dat had ik nog een ander probleem waarbij de naam authorization niet wordt ondersteunt door Swagger waardoor ik over die naam aan moest passen bij swagger maar ook bij de API’s. 
+
+Nadat dat werkte ben ik verdergegaan met het maken van een script waarbij het project geüpload wordt naar de server. Dit heeft veel tijd gekost omdat het uploaden niet snel werkte. Het grootste probleem daarbij was dat het project te groot was om helemaal te uploaden waardoor ik een aantal folders in een ignore moet zetten. Daarbij wilde ik ook iets toevoegen waarbij het alleen geüpload wordt als alle testen slagen maar dat is niet mogelijk in de php versie die ik gebruik. 
