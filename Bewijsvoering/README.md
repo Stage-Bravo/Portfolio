@@ -154,7 +154,7 @@ En dan ziet het resultaat er zo uit.
 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/1d671de4-7c7a-413f-8173-367b15d48e45)
  
-Om dit voor elkaar te krijgen heb ik vrij lang moeten zoeken naar het juiste resultaat. De json en yaml bestanden die ik genereer zijn niet goed en krijg een error dat het bestand verkeerd is. Door op de site van swagger het yaml bestand in te voeren en te downloaden werkt het nu wel. Waarom het dan wel werkt weet ik niet want er is geen code aangepast of toegevoegd. Het enige verschil dat ik kan zien is dat het bestand van swagger in kb’s iets groter is.
+Om dit voor elkaar te krijgen heb ik vrij lang moeten zoeken naar het juiste resultaat. De json en yaml bestanden die ik genereer via mijn eigen script zijn niet goed en krijg een error dat het bestand verkeerd is. Door op de site van swagger het yaml bestand in te voeren en te downloaden werkt het nu wel. Waarom het dan wel werkt weet ik niet want er is geen code aangepast of toegevoegd. Het enige verschil dat ik kan zien is dat het bestand van swagger in kb’s iets groter is.
 
 Naast dat heb ik nog een probleem gehad met swagger. Als je data meestuurde via swagger kreeg de API de data niet binnen. Dit kwam omdat de server geen data wilde ontvangen die via een header meegestuurd werd. Dat probleem heb ik kunnen oplossen door in de .htaccess file deze regel heb toegevoegd. 
 ```
