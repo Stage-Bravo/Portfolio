@@ -5,8 +5,8 @@
 [Algemeen programmeren](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#algemeen-programmeren)<br>
 [API's](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#apis)<br>
 [JWT-token](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#jwt-token)<br>
-[Swagger](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#swagger)
-[API's gebruiken/testen](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md#apis-gebruikentesten)
+[Swagger](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#swagger) <br>
+[API's gebruiken/testen](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md#apis-gebruikentesten)<br>
 [Uploaden naar server](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md#uploaden-naar-server)
 
 ## Introductie
