@@ -58,3 +58,21 @@ Om de testen te runnen moet je via de terminal een command aanroepen die het php
 Als ik gebruik maak om een simpele webpagina te maken en die te runnen op een lockalhost kost het me veel tijd om te maken maar je ziet dan wel een duidelijk eindproduct. Het maken vaan aanpassingen in de headers kost meer tijd en dat is voor het testen van de API niet handig. De uitkomst van zoon API-call ziet er dan zo uit. 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/3d249ecf-9105-4b1f-808f-dc9ee27b5310)
 
+## Uploaden naar server
+Hier ga ik beschrijven hoe ik mijn project via een script naar de server zet. Het script heb ik in php gemaakt omdat het maken van andere scripts gebruik moet maken van Linux. Daarnaast heb ik ervoor gekozen om het niet via GitHub te doen omdat mijn stagebedrijf daar geen gebruik van maakt. 
+
+Laten we nu naar het script kijken die ik heb gemaakt. Ik laat de eerste variabelen van het script niet zien omdat het gebruikersnamen en wachtwoorden zijn.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/94de0ca6-49d5-4376-96b8-f92d92ad9e2c)
+
+In het begin maak ik een array waarbij ik een aantal mappen in een ignore zet. Dit doe ik omdat het project anders te groot is. Waarom ik voor deze 2 mappen heb gekozen is omdat ze de grootste zijn en omdat die 2 mappen alle frameworks en extensies bevatten die een keer in de zoveel tijd maar geüpdatete moet worden. Daarna gaan we kijken of er een verbinding is met de server en anders wordt het script gestopt. Als we verbinding kunnen maken met de server gaan we inloggen op de server.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/9c6ee12c-9041-43ea-aa0f-a5658101401d)
+
+Hier hebben we de functie ftp_mksubdirs aangemaakt waarbij een mappen structuur wordt aangemaakt op de server. Er wordt met een loop door de mappen gegaan en het bouwt een pad van alle folders.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/bcdd0fac-90b0-4062-8573-4c784e18a0e3)
+
+In deze functie worden de bestanden toegevoegd aan de server. Om deze functie samen te vatten wordt er door de directory geloop en dan worden het bestand in een bepaalde map overgezet van lokaal naar de server. Hierna worden de 2 functies aangeroepen en al dit bestand wordt geladen via de webbrowser en worden de bestanden geüpload. 
+
+Bij dit script wilde ik ook automatisch mijn testen te laten testen maar uiteindelijk is dat niet gelukt omdat mijn php versie niet nieuw genoeg is om dit te kunnen doen. 
