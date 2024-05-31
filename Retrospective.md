@@ -61,3 +61,12 @@ Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter
 Planning |  | Nieuwe doelen stellen
 
 Met sprint 7 is het voor het grootste gedeelte goed gegaan. Ik heb al de doelen behaalt die ik in het begin van de sprint heb opgesteld alleen heb ik het gevoel dat ik meer heb kunnen bereiken. Dit komt omdat ik te veel in detail ben gaan werken met de doelen die ik heb opgesteld maar ik kon beter nieuwe doelen stellen die gerichter waren. Hier ga ik in de volgende sprint proberen op te letten door gerichter doelen te stellen en als de doelen klaar zijn of bijna klaar zijn er nieuwe toe te voegen.
+
+## Sprint 8
+Hieronder staat mijn achtste retrospective van mijn stage. 
+Wat ging er goed | Wat heeft voor problemen gezorgd | Wat kon er beter 
+--- | --- | ---
+Planning | Te lang bij het zelfde probleem gebleven | 
+Werk uitgevoerd |  | 
+
+In sprint 8 heb ik een wissel vallende sprint gehad. De resultaten die ik heb geboekt waren goed alleen waren er ook een paar minpuntjes. De planning was weer goed en die heb ik in de loop van de spint uitgebreid met nieuwe doelen die ik wilde halen. Het grootste min punt dat ik heb voor deze sprint is geweest dat ik te lang bij problemen ben vast blijven hangen omdat ik het per se op wilde lossen. Ik had beter iets anders kunnen doen en dan later weer met een frisse blik het op kunnen pakken. Dit gebeurde dan ook alleen had ik de helle dag eraan gewerkt en kwam de dag erna met een oplossing. Als ik sneller van het probleem was afgestapt had ik in die tijd wat anders kunnen maken en het de dag erna weer op kunnen pakken.
