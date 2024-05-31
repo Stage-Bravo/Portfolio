@@ -7,6 +7,7 @@
 [JWT-token](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#jwt-token)<br>
 [Swagger](https://github.com/Stage-Bravo/Portfolio/blob/main/Progressie_stage/Voortgang_Stage_Project.md#swagger)
 [API's gebruiken/testen](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md#apis-gebruikentesten)
+[Uploaden naar server](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md#uploaden-naar-server)
 
 ## Introductie
 In dit bestand ga ik beschrijven wat ik voor het project gemaakt heb en welke keuzes ik daarbij heb gemaakt. Hiermee wil ik mijn voortgang laten zien die ik heb gemaakt op mijn stage. 
