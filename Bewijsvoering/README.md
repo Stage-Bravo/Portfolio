@@ -11,7 +11,7 @@ Om mijn sprints in te plannen maak ik een bord in Github waar ik mijn planning v
 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/7cd8a00b-3ad5-44ca-b29f-04dcb6a69a35)
  
-Bij elk item dat ik in de planning heb aangemaakt heb ik omschrijving erbij gezet waardoor ik beter weet wat ik bedoelde en dan kunne anderen het ook beter begrijpen wat ik in de planning omschrijf. Hieronder zie je daar een voorbeeld van: 
+Bij somige items die ik in de planning heb aangemaakt heb ik omschrijving erbij gezet waardoor ik beter weet wat ik bedoelde en dan kunne anderen het ook beter begrijpen wat ik in de planning omschrijf. Hieronder zie je daar een voorbeeld van: 
 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/1b4d302b-99ec-463b-884c-a4731ea635ab)
 
