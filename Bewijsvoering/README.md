@@ -163,3 +163,11 @@ Header set Access-Control-Allow-Origin "*"
 Naast dat had ik nog een ander probleem waarbij de naam authorization niet wordt ondersteunt door Swagger waardoor ik over die naam aan moest passen bij swagger maar ook bij de API’s. 
 
 Nadat ben ik verdergegaan met het maken van een script waarbij het project geüpload wordt naar de server. Dit heeft veel tijd gekost omdat het uploaden niet snel werkte. Het grootste probleem daarbij was dat het project te groot was om helemaal te uploaden waardoor ik een aantal folders in een ignore moet zetten. Daarbij wilde ik ook iets toevoegen waarbij het alleen geüpload wordt als alle testen slagen maar dat is niet mogelijk in de php versie die ik gebruik. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) leg ik uit hoe ik het scriptje heb gemaakt en welke keuzes ik daarbij heb gemaakt.
+
+## Conclusie
+Tijdens mijn stage heb ik veel geleerd over het ontwikkelen van API's en het werken binnen een bedrijf. Door het werken in sprints heb ik geleerd om mijn werk te plannen en reflecteren op mijn voortgang. Ik ben trots op wat ik heb bereikt en kijk uit naar mijn volgende uitdaging.
+
+## Referenties
+Onderzoeksrapport
+Project Beschrijving
+Handleiding
