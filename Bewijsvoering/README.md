@@ -91,23 +91,23 @@ Daarnaast heb ik verbeterpunten toegepast aan mijn [onderzoeksrapport](https://g
 Naast dat ben ik ook bezig geweest met hoe ik mijn stage uitgebreider kan maken. Dit is omdat er met een gesprek met mijn assessor er twijfels kwamen wat ik nog kan laten zien om alle leeruitkomsten goed te kunnen behalen. Daarom gaan we contact leggen met het bedrijf dat de API’s zou gaan gebruiken om te kijken hoe we het kunnen uitbreiden.
 
 ### Sprint 6
-Deze sprint heb ik met mijn assessor de planning gemaakt omdat de planning van de afgelopen sprints wat minder was ene er meer moes gaan gebeuren. We hebben voor die sprint 3 weken uitgetrokken alleen was ik al na 2 weken klaar en ben daarna een nieuwe sprint begonnen.
+Tijdens deze sprint heb ik samen met mijn assessor een nieuwe planning gemaakt omdat de planning van de afgelopen sprints niet optimaal was en er meer gedaan moest worden. We hadden drie weken ingepland voor deze sprint, maar ik was al na twee weken klaar en ben daarna met een nieuwe sprint begonnen.
 
-In deze sprint ben ik begonnen met Swagger interactief maken. Swagger had ik al geïmplementeerd in het project maar als je een API aanriep kreeg je niks terug. Dit kwam omdat de url naar de verkeerde host in was gesteld. Daarnaast moest de route naar de API ook veranderd worden omdat het project naar een lokale server is verplaats. 
+Ik ben begonnen met het interactief maken van Swagger. Hoewel Swagger al geïmplementeerd was, kreeg je bij het aanroepen van een API geen respons terug. Dit kwam omdat de URL naar de verkeerde host was ingesteld. Daarnaast moest de route naar de API worden aangepast omdat het project naar een lokale server was verplaatst.
 
-Daarna ben ik begonnen met een API te maken waarbij foto’s naar een API gestuurd kunnen worden. Dit was op verzoek van de opdrachtgever zodat ze zelf weten hoe er zoon API kunnen maken. Deze API heb ik verwerkt met de API-marker opslaan. Dit heb ik zo gedaan zodat er gelijk een functionele API erbij gemaakt kon worden die later nog gebruikt kan worden. De eerste API is het uploaden van een marker en we de foto ophalen ziet er zo uit.
+Vervolgens heb ik een API ontwikkeld waarmee foto's naar een server kunnen worden gestuurd. Dit was op verzoek van de opdrachtgever, zodat ze wisten hoe ze zelf zo'n API konden maken. Deze API heb ik geïntegreerd met de API voor het opslaan van markers. Hierdoor kon ik direct een functionele API maken die later gebruikt kan worden. De eerste API is voor het uploaden van een marker en het ophalen van de foto. De structuur van deze API ziet er als volgt uit.
 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/0c97467f-b48d-43fc-a12e-242e0037e493)
 
-Om de foto op te slaan hebben zijn er een aantal functies gemaakt. Dit heb ik in de class markerCollectie gedaan. Hier laat ik de functies zien die ervoor zorgen dat de foto’s worden opgeslagen.
+Om de foto op te slaan, heb ik verschillende functies gemaakt in de class markerCollectie. Hier zijn enkele voorbeelden van deze functies.
 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/0f4fd29d-e405-4f3d-aaf5-c0d7dcd18831)
 
-Deze functie regelt het proces van het maken en het opslaan van de foto. Eerst wordt er gekeken of het uploaden is gelukt, daarna gaan we de naam van foto ophalen. Dan gaan we een naam genereren van de foto die we op gaan slaan. Dit doen we omdat als iemand een foto uploadt met dezelfde naam er een error komt en de foto niet wordt opgeslagen. De functie die dat regelt ziet er zo uit. 
+Deze functies zorgen voor het proces van het maken en opslaan van de foto. Eerst wordt gecontroleerd of het uploaden is gelukt. Vervolgens wordt de naam van de foto opgehaald en een nieuwe naam gegenereerd om naamconflicten te voorkomen. Deze functie ziet er als volgt uit. 
 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/499e803a-bdc2-4877-a628-8f2e07ca56f8)
 
-Als deze naam is gegenereerd gaan we kijken of deze naam toch al bestaat en als dat zo is wordt er een nieuwe naam gegenereerd. Dan wordt de foto opgeslagen en die functie fotoOpslaan aangeroepen waarmee de foto op de server wordt opgeslagen. Dit doen we op de server en niet op de database omdat te veel geheugen is voor de database en hij dan te snel vol raakt en hij er te traag van wordt. Dit is de functie die de foto opslaat. 
+Als de naam is gegenereerd, wordt gecontroleerd of deze naam al bestaat. Indien dit het geval is, wordt een nieuwe naam gegenereerd. Vervolgens wordt de foto opgeslagen met de functie fotoOpslaan, die de foto op de server opslaat in plaats van in de database om geheugenproblemen te voorkomen. De functie voor het opslaan van de foto ziet er zo uit:
 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/97e2e8cf-991b-47d2-a2a0-1014c55e0ead)
 
@@ -121,29 +121,23 @@ Dit is de regel waar we de foto bijvoegen aan een array file. Hierin zie je 2 di
  
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/214f9ab0-6705-4be2-ae0e-8e11c4dbf4b7)
 
-Nu we een aantal functies hebben gemaakt moet het ook getest worden of alles werkt. Dit wordt gedaan via phpunit waar we unit testen voor php code kunnen maken. Alleen de publieke functies in de logic laag worden getest. Hierover heb ik een uitleg gemaakt in de [project beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) waar ik ook een voorbeeld geef van een unit test. 
+Ik heb PHPUnit gebruikt om unit tests te schrijven voor de publieke functies in de logic-laag.  Hierover heb ik een uitleg gemaakt in de [project beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) waar ik ook een voorbeeld geef van een unit test. Daarnaast heb ik de code verbeterd door functies in de juiste classes te plaatsen en de dependency injection correct uit te voeren. Dit ontdekte ik tijdens het maken van de tests.
 
-Voor de rest heb ik de code verbeterd die ik heb geschreven. Er waren functies in verkeerde classes en de dependency injection was verkeerd uitgevoerd. Dit kwam omdat ik een verkeerde stukje code van internet heb gebruikt en hierachter kwam met het maken van de testen. 
-
-Naast dat ben ik veel bezig geweest met hoe ik mijn stage uitgebreider kan maken zodat ik alle leeruitkomsten uitgebreid kan gaan aantonen. Dit heb ik gedaan door te vragen welke endpoint er nodig zijn om dit project tot een goede uitkomst te krijgen. Naast dat ga ik de API’s op een server runnen en daarbij ga ik kijken of ik dit automatisch kan uploaden. 
-
-Daarnaast ben ik begonnen om mijn portfolio een stuk te gaan verbeteren en daar ben ik de sprint hierna verder mee bezig gegaan.
+Ik heb overleg gehad over welke endpoints nodig zijn om het project tot een goed einde te brengen en mijn leeruitkomsten uitgebreid aan te tonen. Verder ben ik bezig geweest met het verbeteren van mijn portfolio en heb ik een server opgezet om de API’s te hosten. Ik ben ook begonnen met het automatiseren van het uploaden van de API’s naar de server.
 
 ### Sprint 7
-Deze sprint is iets korter dan de andere omdat in deze sprint hemelvaar viel en daarom heb ik 2 dagen minder gehad om aan deze sprint te werken. 
+Deze sprint was iets korter vanwege Hemelvaart, waardoor ik twee dagen minder had om te werken.
 
-In de vorige sprint hebben we als eerste gekeken welke endpoints erbij moeten gaan komen en twee van die endpoints zijn het maken en ophalen van afschot. Hiervoor heb ik in de database een tabel aan moeten met waar het afschot wordt opgeslagen. Het maken van de API ziet er bijna hetzelfde uit als de marker API’s omdat ze hetzelfde doel hebben alleen is het net iets andere data die in een ander tabel moeten. Voor de functies in de logic laag zijn ook testen voor gemaakt. 
+We hebben nieuwe endpoints toegevoegd voor het maken en ophalen van afschot. Hiervoor heb ik een tabel in de database gemaakt om het afschot op te slaan. De API's hiervoor zijn vergelijkbaar met de marker-API's, met enkele aanpassingen voor de verschillende data. Ik heb ook unit tests geschreven voor de functies in de logic-laag.
 
-In deze sprint ben ik ook begonnen met het maken van [project beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) waar ik mijn keuzes beschrijf die ik heb gemaakt. Hier ga ik wat meer in op de technieken die ik gebruik en waarom ik voor die techniek heb gekozen. 
+Daarnaast ben ik ook begonnen met het maken van [project beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) waar ik mijn keuzes beschrijf die ik heb gemaakt. Hier ga ik wat meer in op de technieken die ik gebruik en waarom ik voor die techniek heb gekozen. 
 
-Deze sprint heb ik ook een probleem gehad met de libraries die ik gebruik voor mijn project. Dit kwam omdat ik een package deed updaten naar een oudere versie waardoor het hele project niet meer werkte. Ik had natuurlijk geen back-up gemaakt waardoor ik minimaal een dag kwijt ben geweest om het op te lossen. Dit is een goeie les geweest voor de volgende keer om wel een back-up te maken.
+Ik had een probleem met de libraries die ik gebruik voor mijn project vanwege een update naar een oudere versie. Dit zorgde ervoor dat het project niet meer werkte en ik een dag kwijt was om het op te lossen. Dit was een goede les om altijd een back-up te maken.
 
-Er is ook voor gezorgd dat er een server is waar ik de applicatie op kan gaan hosten. Naast dat heb ik gekeken of ik lokaal GitHub kon gaan gebruiken om gebruik te kunnen maken van ci./cd maar dat kan niet en daarom moet ik een alternatief ervoor gaan zoeken. 
+Verder heb ik een server opgezet om de applicatie te hosten en onderzocht of ik lokaal GitHub kon gebruiken voor CI/CD, maar dit bleek niet mogelijk te zijn.
 
 ### Sprint 8
-In deze sprint ben ik vooral bezig geweest met alles rond het project op de server zetten. Dit kwam omdat dat er nog extra problemen bij kwamen die ik van tevoren niet zag aankomen. Daarnaast heeft deze sprint ook een dag minder gehad vanwege Pinksteren. Maar in het begin van deze sprint ben ik begonnen met het afmaken van dit bestand. Dit heeft me veel tijd gekost om het op een goeie manier op te zetten.
-
-Daarna ben ik begonnen met het project op de server te zetten. Hiervoor heb ik FileZilla omdat het hier op het stagebedrijf wordt gebruikt. De server is voor mij opgezet en heb de gegevens ervoor gekregen waardoor ik heb kunnen inloggen op de server. Toen heb ik nog de inlog gegevens van de database moeten veranderen naar een database die op een server staat. 
+In deze sprint heb ik vooral gewerkt aan het opzetten van het project op de server. Dit ging gepaard met enkele onverwachte problemen en een dag minder werk vanwege Pinksteren. Ik ben begonnen met het afmaken van dit document en het project op de server te zetten via FileZilla.
 
 Toen kwam ik erachter dat swagger niet meer werkte en heb daar een aantal dingen moeten veranderen. Ik heb een html pagina gemaakt waardoor je online naar een swagger pagina kunt kijken. De html van die pagina ziet er zo uit.
 
@@ -160,9 +154,9 @@ Naast dat heb ik nog een probleem gehad met swagger. Als je data meestuurde via 
 Header set Access-Control-Allow-Origin "*"
 ```
 
-Naast dat had ik nog een ander probleem waarbij de naam authorization niet wordt ondersteunt door Swagger waardoor ik over die naam aan moest passen bij swagger maar ook bij de API’s. 
+Daarnaast moest ik de naam 'authorization' aanpassen omdat deze niet werd ondersteund door Swagger.
 
-Nadat ben ik verdergegaan met het maken van een script waarbij het project geüpload wordt naar de server. Dit heeft veel tijd gekost omdat het uploaden niet snel werkte. Het grootste probleem daarbij was dat het project te groot was om helemaal te uploaden waardoor ik een aantal folders in een ignore moet zetten. Daarbij wilde ik ook iets toevoegen waarbij het alleen geüpload wordt als alle testen slagen maar dat is niet mogelijk in de php versie die ik gebruik. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) leg ik uit hoe ik het scriptje heb gemaakt en welke keuzes ik daarbij heb gemaakt.
+Ik ben verder gegaan met het maken van een script om het project automatisch naar de server te uploaden. Dit kostte veel tijd omdat het uploaden traag ging. Het grootste probleem was dat het project te groot was om in één keer te uploaden, dus moest ik enkele mappen uitsluiten. Ik wilde ook dat het script alleen uploadde als alle tests slaagden, maar dit was niet mogelijk met de versie van PHP die ik gebruik.  [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) leg ik uit hoe ik het scriptje heb gemaakt en welke keuzes ik daarbij heb gemaakt.
 
 ## Conclusie
 Tijdens mijn stage heb ik veel geleerd over het ontwikkelen van API's en het werken binnen een bedrijf. Door het werken in sprints heb ik geleerd om mijn werk te plannen en reflecteren op mijn voortgang. Ik ben trots op wat ik heb bereikt en kijk uit naar mijn volgende uitdaging.
