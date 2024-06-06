@@ -162,6 +162,6 @@ Ik ben verder gegaan met het maken van een script om het project automatisch naa
 Tijdens mijn stage heb ik veel geleerd over het ontwikkelen van API's en het werken binnen een bedrijf. Door het werken in sprints heb ik geleerd om mijn werk te plannen en reflecteren op mijn voortgang. Ik ben trots op wat ik heb bereikt en kijk uit naar mijn volgende uitdaging.
 
 ## Referenties
-Onderzoeksrapport
-Project Beschrijving
-Handleiding
+[Onderzoeksrapport](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) <br>
+[Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) <br>
+[Persoonlijke Onwikkeling]( https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Persoonlijke_ontwikkeling.md)<br>
