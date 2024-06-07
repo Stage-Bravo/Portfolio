@@ -37,7 +37,7 @@ Omdat het onderzoeksrapport sneller dan verwacht af was, heb ik verschillende AP
 Het applicatieonderzoek heb ik uitgesteld, omdat de bestaande applicatie geen OOP of MVC gebruikt, waardoor functies niet herbruikbaar zijn. Voor het maken van API’s heb ik een apart project opgezet.
 
 ### Sprint 4
-In deze sprint ben ik begonnen met het ontwikkelen van het project. Na mijn onderzoek naar de beste manier om een API op te zetten, heb ik mijn testversie gepakt en verder ontwikkeld. Voor een gedetailleerde beschrijving van mijn werk en keuzes kun je mijn [Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) zien. Hier leg ik uit wat ik doe en waarom ik dat doe. 
+In deze sprint ben ik begonnen met het ontwikkelen van het project. Na mijn onderzoek naar de beste manier om een API op te zetten, heb ik mijn testversie gepakt en verder ontwikkeld. Voor een meer gedetailleerde beschrijving van mijn werk en keuzes kun je mijn [Project Beschrijving](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) zien. Hier leg ik uit wat ik doe en waarom ik dat doe. 
 
 De endpoints die ik deze sprint heb ontwikkeld, zijn onder andere voor het inloggen, zodat je een JWT-token terugkrijgt, en een functie om de JWT-token te valideren. Deze functies heb ik getest op een test-API. Hieronder zie je hoe deze functies worden aangeroepen.
 
