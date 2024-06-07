@@ -30,7 +30,7 @@ Fasering |	Effort | 	Start |	Gereed
 4	| Afronden	|	Week 17	| Week 18
 
 ### Sprints 1, 2 en 3
-De eerste 6 weken heb ik volgens planning besteed aan onderzoek. Dit omvat een onderzoek naar wat een API is en wat de beste manier is om een API op te zetten. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) is het onderzoeksrapport te vinden. <br>
+Het eerste wat ik heb gedaan op mijn stage is het maken van het [projectplan](https://github.com/Stage-Bravo/Portfolio/blob/main/Overige%20Documenten/Projectplan.pdf). Daarin heb ik de eerste 6 weken gepland aan mijn onderzoek. Dit omvat een onderzoek naar wat een API is en wat de beste manier is om een API op te zetten. [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf) is het onderzoeksrapport te vinden. <br>
 
 Omdat het onderzoeksrapport sneller dan verwacht af was, heb ik verschillende API-frameworks geëvalueerd om te bepalen welk framework het beste bij dit project past. Daarnaast heb ik de beveiliging opgezet om een voorsprong te nemen op mijn planning. [HIER](https://github.com/Stage-Bravo/PHP-API-Framworks) kun je mijn testen met verschillende frameworks vinden. Hiermee wilde ik mijn onderzoek valideren en kreeg ik een voorsprong op de volgende fase van mijn stage.
 
