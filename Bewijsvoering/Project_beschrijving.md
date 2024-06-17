@@ -42,31 +42,31 @@ Als eerste onderdeel kijken we of de JWT-token uit 2 delen bestaat en als dat zo
 Om documentatie te maken voor de API’s maak ik gebruik van Swagger. Hierdoor kan er makkelijk en overzichtelijk gezien worden welke API’s er beschikbaar zijn en wat ze doen. Hierdoor hoeft er geen uitgebreide documentatie gemaakt te worden voor anderen zodat ze we en bespaart het tijd. Naast dat is het handig om de API’s te testen op een overzichtelijke manier en hoef je niet steeds een front-end te maken om de interactie met de API’s te testen. Hieronder laat ik zien hoe je een API doet opzetten in Swagger.
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/048fb5c2-eac9-44a6-a3b3-84e2e93bb76e)
  
-Hierboven zie je hoe je een API documenteert in Swagger. Ik heb de API gepakt waar je een token mee doet aanmaken die ik bij een ander voorbeeld ook al heb gebruikt. De Swagger API moet gemaakt worden in comments. Je gaat erin omschrijven hoe de API er uit ziet, dus je begint met het pad en dan ga je de parameters toevoegen. Je kunt het een naam, beschrijven en requirements waardoor de API duidelijk wordt omschreven. Hieronder kun je zien hoe het er in Swagger er uitziet. 
+Hierboven zie je hoe je een API documenteert in Swagger. Ik heb de API gepakt waar je een token mee doet aanmaken die ik bij een ander voorbeeld ook al heb gebruikt. De Swagger API moet gemaakt worden in comments. Je gaat erin omschrijven hoe de API eruitziet, dus je begint met het pad en dan ga je de parameters toevoegen. Je kunt het een naam, beschrijven en requirements waardoor de API duidelijk wordt omschreven. Hieronder kun je zien hoe het er in Swagger er uitziet. 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/c8662ac8-e7d3-4b47-bc4e-e617068ade86)
 
 ## Testen 
-Om te kijken of de functies goed werken die ik heb gemaakt ga ik testen schrijven zodat we weten of er geen errors in de applicatie zitten. Hiervoor wordt phpunit gebruikt en dat is de standaard voor het testen van PHP code. De enige functies die testen omvatten zitten in de logic laag en zijn publieke functies. Hiervoor gebruik ik mockdata zodat er niks aangepast wordt in de database. Hieronder zie je 2 testen als voorbeeld dat ik heb opgesteld waarbij gekeken wordt of er op een goeie manier een token wordt aangemaakt. Hierbij wordt er een keer de goeie gegevens meegegeven en de andere keer worden de verkeerde gegevens meegegeven. 
+Om te kijken of de functies goed werken die ik heb gemaakt ga ik testen schrijven zodat we weten of er geen errors in de applicatie zitten. Hiervoor wordt phpunit gebruikt en dat is de standaard voor het testen van PHPicode. De enige functies die testen omvatten zitten in de logic laag en zijn publieke functies. Hiervoor gebruik ik mockdata zodat er niets aangepast wordt in de database. Hieronder zie je 2 testen als voorbeeld dat ik heb opgesteld waarbij gekeken wordt of er op een goeie manier een token wordt aangemaakt. Hierbij wordt er een keer de goeie gegevens meegegeven en de andere keer worden de verkeerde gegevens meegegeven. 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/68e8add6-2f05-4fc7-8f1a-c1b576029004)
 
 Om de testen te runnen moet je via de terminal een command aanroepen die het phpunit bestand doet runnen. Het ziet er dan zo uit als we een bestand met 2 testen te runnen.
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/dee7d71d-039e-466f-9b3f-3f80e3962977)
 
  ## API's gebruiken/testen
- Om mijn API’s te testen/gebruiken maak ik soms een simpele webpagina aan of ik gebruik postman om de API’s te gebruiken. Als ik gebruik moet maken van afbeeldingen heb ik geen andere keuze om een webpagina te maken omdat je geen afbeeldingen mee kan sturen via Postman. Als dat niet hoeft en ik hoef alleen een paar simpele values te sturen kan ik gebruik maken van Postman. Dit is een simpele extensie in Visual studio die het makkelijker maakt om API’s te gebruiken. Ik hoef alleen de link naar de webpagina te pakken en daar de headers aan toe te voegen die bij de API horen. Om dit niet elke keer op nieuw in te vullen kan ik de calls opslaan en de dag erna weer kan hergebruiken. Het ziet er dan zo uit om een API aan te roepen met de value die ik dan terugkrijg. 
+ Om mijn API’s te testen/gebruiken maak ik soms een simpele webpagina aan of ik gebruik postman om de API’s te gebruiken. Als ik gebruik moet maken van afbeeldingen heb ik geen andere keuze om een webpagina te maken, omdat je geen afbeeldingen mee kan sturen via Postman. Als dat niet hoeft en ik hoef alleen een paar simpele values te sturen kan ik gebruik maken van Postman. Dit is een simpele extensie in Visual studio die het makkelijker maakt om API’s te gebruiken. Ik hoef alleen de link naar de webpagina te pakken en daar de headers aan toe te voegen die bij de API horen. Om dit niet elke keer op nieuw in te vullen kan ik de calls opslaan en de dag erna weer kan hergebruiken. Het ziet er dan zo uit om een API aan te roepen met de value die ik dan terugkrijg. 
  ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/9bc192d5-c19c-41b8-9871-118704cb5e2e)
 
-Als ik gebruik maak om een simpele webpagina te maken en die te runnen op een lockalhost kost het me veel tijd om te maken maar je ziet dan wel een duidelijk eindproduct. Het maken vaan aanpassingen in de headers kost meer tijd en dat is voor het testen van de API niet handig. De uitkomst van zoon API-call ziet er dan zo uit. 
+Als ik gebruik maak om een simpele webpagina te maken en die te runnen op een lockalhost kost het me veel tijd om te maken, maar je ziet dan wel een duidelijk eindproduct. Het maken vaan aanpassingen in de headers kost meer tijd en dat is voor het testen van de API niet handig. De uitkomst van zoon API-call ziet er dan zo uit. 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/3d249ecf-9105-4b1f-808f-dc9ee27b5310)
 
 ## Uploaden naar server
-Hier ga ik beschrijven hoe ik mijn project via een script naar de server zet. Het script heb ik in php gemaakt omdat het maken van andere scripts gebruik moet maken van Linux. Daarnaast heb ik ervoor gekozen om het niet via GitHub te doen omdat mijn stagebedrijf daar geen gebruik van maakt. 
+Hier ga ik beschrijven hoe ik mijn project via een script naar de server zet. Het script heb ik in PHP gemaakt omdat het maken van andere scripts gebruik moet maken van Linux. Daarnaast heb ik ervoor gekozen om het niet via GitHub te doen, omdat mijn stagebedrijf daar geen gebruik van maakt. 
 
-Laten we nu naar het script kijken die ik heb gemaakt. Ik laat de eerste variabelen van het script niet zien omdat het gebruikersnamen en wachtwoorden zijn.
+Laten we nu naar het script kijken die ik heb gemaakt. Ik laat de eerste variabelen van het script niet zien, omdat het gebruikersnamen en wachtwoorden zijn.
 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/94de0ca6-49d5-4376-96b8-f92d92ad9e2c)
 
-In het begin maak ik een array waarbij ik een aantal mappen in een ignore zet. Dit doe ik omdat het project anders te groot is. Waarom ik voor deze 2 mappen heb gekozen is omdat ze de grootste zijn en omdat die 2 mappen alle frameworks en extensies bevatten die een keer in de zoveel tijd maar geüpdatete moet worden. Daarna gaan we kijken of er een verbinding is met de server en anders wordt het script gestopt. Als we verbinding kunnen maken met de server gaan we inloggen op de server.
+In het begin maak ik een array waarbij ik een aantal mappen in een ignore zet. Dit doe ik omdat het project anders te groot is. Waarom ik voor deze 2 mappen heb gekozen is, omdat ze de grootste zijn en omdat die 2 mappen alle frameworks en extensies bevatten die een keer in de zoveel tijd, maar geüpdatete moet worden. Daarna gaan we kijken of er een verbinding is met de server en anders wordt het script gestopt. Als we verbinding kunnen maken met de server gaan we inloggen op de server.
 
 ![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/9c6ee12c-9041-43ea-aa0f-a5658101401d)
 
@@ -76,4 +76,4 @@ Hier hebben we de functie ftp_mksubdirs aangemaakt waarbij een mappen structuur 
 
 In deze functie worden de bestanden toegevoegd aan de server. Om deze functie samen te vatten wordt er door de directory geloop en dan worden het bestand in een bepaalde map overgezet van lokaal naar de server. Hierna worden de 2 functies aangeroepen en al dit bestand wordt geladen via de webbrowser en worden de bestanden geüpload. 
 
-Bij dit script wilde ik ook automatisch mijn testen te laten testen maar uiteindelijk is dat niet gelukt omdat mijn php versie niet nieuw genoeg is om dit te kunnen doen. 
+Bij dit script wilde ik ook automatisch mijn testen, te laten testen maar uiteindelijk is dat niet gelukt omdat mijn PHP versie niet nieuw genoeg is om dit te kunnen doen. 
