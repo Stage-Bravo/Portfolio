@@ -158,6 +158,29 @@ Daarnaast moest ik de naam 'authorization' aanpassen omdat deze niet werd onders
 
 Ik ben verder gegaan met het maken van een script om het project automatisch naar de server te uploaden. Dit kostte veel tijd omdat het uploaden traag ging. Het grootste probleem was dat het project te groot was om in één keer te uploaden, dus moest ik enkele mappen uitsluiten. Ik wilde ook dat het script alleen uploadde als alle tests slaagden, maar dit was niet mogelijk met de versie van PHP die ik gebruik.  [HIER](https://github.com/Stage-Bravo/Portfolio/blob/main/Bewijsvoering/Project_beschrijving.md) leg ik uit hoe ik het scriptje heb gemaakt en welke keuzes ik daarbij heb gemaakt.
 
+### Sprint 9
+Tijdens de negende en laatste sprint heb ik gewerkt aan het afronden van het project. Het grootste deel van de tijd was ik bezig met het aanpassen van de bestaande API's. Daarnaast heb ik een nieuwe API gemaakt voor het aanmaken van inloggegevens. Hieronder staat een screenshot van de functie die in de logic-laag wordt aangeroepen.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/59935f67-97c1-4e4d-87ba-f9e451288ec8)
+
+Omdat er veel if-statements in zitten, heb ik geprobeerd de functies duidelijke namen te geven, zodat de code makkelijk leesbaar is. De functie controleert of alle meegegeven gegevens correct zijn. Vervolgens wordt gekeken of deze gegevens al eerder zijn aangemaakt. Als dat niet het geval is, worden de nieuwe gegevens gegenereerd en ingevoerd.
+
+Het lastigste hierbij was het unserializen van de gegevens. Hiermee had ik nog nooit gewerkt, dus dat was even uitzoeken. Het moeilijkste vond ik het toevoegen van gegevens aan de bestaande gegevens, omdat een gebruiker meerdere inloggegevens kan hebben. Hieronder kun je zien hoe ik dit heb aangepakt.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/8bfa381f-3605-418d-b052-ee7d2ef789e9)
+
+We halen hier de gegevens op en voegen ze toe aan de bestaande array, die we daarna serializen.
+
+Vanwege de nieuwe inloggegevens moest ik het inloggen aanpassen. Dit was niet moeilijk, maar kostte wel tijd. Ik moest de inloggegevens unserializen en in een loop controleren of een van de gegevens klopte. Hieronder kun je zien hoe ik het inloggen nu aanpak.
+
+![image](https://github.com/Stage-Bravo/Portfolio/assets/103424907/0a0d2074-0c1b-4cd2-9818-461cb6db0cdb)
+
+Ik haal nu de gegevens op uit de database, unserialize ze, en haal ze door een loop. Als de gegevens kloppen, stuur ik een true terug.
+
+Naast deze grote aanpassingen heb ik veel kleine dingen moeten aanpassen, zoals het toevoegen van extra if-statements voor foutafhandeling. We geven nu ook de WBE-namen mee in de JWT-token, waardoor alle API's aangepast moesten worden. Dit gold ook voor de tests die ik had gemaakt.
+
+Verder heb ik gewerkt aan mijn portfolio, dat ingeleverd moet worden. Ook heb ik een document gemaakt voor het stagebedrijf, zodat zij weten waar ik mee bezig ben geweest en hoe ze hiermee verder kunnen.
+
 ## Conclusie
 Tijdens mijn stage heb ik veel geleerd over het ontwikkelen van API's en het werken binnen een bedrijf. Door het werken in sprints heb ik geleerd om mijn werk te plannen en reflecteren op mijn voortgang. Ik ben trots op wat ik heb bereikt en kijk uit naar mijn volgende uitdaging.
 
