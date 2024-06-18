@@ -28,10 +28,8 @@ Hier zijn de leerresultaten die ik heb behaald, samen met het bewijs van mijn we
 
 Leeruitkomst | Uitleg | Beoordeling | Bewijs
 --- | --- | --- | --- 
-Professional duties | Door het proces te doorlopen zoals het op Fontys is geleerd heb ik het leeruitkomst Professional duties kunnen aantonen. Daarnaast heb ik ook het voortouw genomen om sprint meeting en code reviews in te plannen. Ik heb het voortouw genomen in het maken van de sprints zodat ik altijd iets te doen heb gehad.
-
-Door het onderzoek dat ik heb gedaan heb ik mijn stagebedrijf goed kunnen adviseren hoe het beste API’s aangepakt kunnen worden.
-
+Professional duties | Door het proces te doorlopen zoals het op Fontys is geleerd heb ik het leeruitkomst Professional duties kunnen aantonen. Daarnaast heb ik ook het voortouw genomen om sprint meeting en code reviews in te plannen. Ik heb het voortouw genomen in het maken van de sprints zodat ik altijd iets te doen heb gehad.<br>
+Door het onderzoek dat ik heb gedaan heb ik mijn stagebedrijf goed kunnen adviseren hoe het beste API’s aangepakt kunnen worden.<br>
 Het project is geïmplementeerd op een server waardoor er online gebruik gemaakt kan worden van de API’s. Het project is ook getest zodat we weten dan er geen fouten in de code zitten. Van het gene wat ik heb gemaakt heb ik een document gemaakt waar ik in uitleg hoe ik het gemaakt heb met een klassendiagram erbij. 
  | Sufficient | [Bewijsvoering](https://github.com/Stage-Bravo/Portfolio/tree/main/Bewijsvoering)<br> (Project) <br>
 Situation-orientation | Deze leeruitkomst wil ik aantonen door de vaardigheden die ik heb geleerd op Fontys de afgelopen 2 jaar te kunnen integreren. Hierbij zal ik me aanpassen op de manier dat ze op mijn stage bedrijf werken. | Sufficient | [Bewijsvoering](https://github.com/Stage-Bravo/Portfolio/tree/main/Bewijsvoering) <br> (Project) <br> [Applicatie onderzoek](https://github.com/Stage-Bravo/Portfolio/blob/main/Onderzoek/Onderzoeksrapport.pdf)<br>
